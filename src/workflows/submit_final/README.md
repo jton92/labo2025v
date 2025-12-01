@@ -1,10 +1,10 @@
-Trabajo Final Laboratorio de Implementación I | Final submit
+## Trabajo Final Laboratorio de Implementación I | Final submit
 
-Descripción
+# Descripción
 
 En este repositorio se encuentra el notebook con el Modelo.v8 utilizado para la competencia Kaggle de predicción de bajas bancarias.
 
-Características
+# Características
 
 Semilla primigenia: 228311
 
@@ -18,7 +18,7 @@ AUC validación: 0.932305869
 
 Se seleccionó este experimento debido a ser el de mayor ganancia promedio por envio. Logre obtener ganancias myaores en otros exprimentos con otra cantidad de envios pero el promedio por envio fue menor. 
 
-Hiperparámetros Óptimos
+# Hiperparámetros Óptimos
 
 num_leaves: 151
 
@@ -36,7 +36,7 @@ lambda_l2:3.6176
 
 min_gain_to_split:0.0706
 
-Modificaciones Implementadas
+# Modificaciones Implementadas
 
 Para optimizar el código nos basamos en buenas prácticas y experimentos colaborativos, en particular:
 
@@ -58,7 +58,7 @@ Implemente canritos con el objetivo de ir a 100 interaciones en la bayesiana (co
 
 training_pct = 0.4 
 
-Resultados
+# Resultados
 
 Corte	Ganancia (M)
 
@@ -66,6 +66,6 @@ ENVIO:1800	1900	2000	2100	2200	2300	2400
 
 GANAN:18446	8997	8647	8306	8436	8597	8236
 
-Autor
+# Autor
 
 Juan Ignacio Ton Vanerio Materia: Laboratorio de Implementación I 2025 Maestría en Ciencias de Datos, Universidad Austral
